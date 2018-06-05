@@ -1,0 +1,59 @@
+
+.nav{
+  height: 80px;
+  background: rgba(0,0,0,.2);
+}
+
+.nav .logo{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 40px;
+
+}
+
+.nav .navegacion{
+  display: inline-block;
+  float:right;
+  margin-top: 26px;
+
+}
+
+.nav .navegacion li{
+  display: inline-block;
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+  margin-right: 30px;
+  color: white;
+}
+
+.nav .navegacion li:hover{
+  color: green;
+}
+.nav .navegacion a{
+  text-decoration: none;
+}
+
+.titulo{
+  border: 1px solid;
+  display: inline-block;
+  margin-top: 40px;
+  margin-left: 40px;
+  font-family: arial;
+  font-weight: bolder;
+  font-size: 32px;
+}
+
+.subtitulo{
+  border: 1px solid;
+  margin-left: 40px;
+  font-family: arial;
+  font-size: 16px;
+  
+
+}
+
+.parrafo{
+  
+
+}

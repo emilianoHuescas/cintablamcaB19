@@ -1,0 +1,32 @@
+/* Comentarios */
+h1 {
+color: #00338d;
+font-size: 60px;
+font-family: arial;
+}
+ul{
+	border: 2px solid;
+	height: 100px;
+}
+
+li{
+	/*border:1px solid blue; - ayuda a visualizar las etiquitas*/
+	display: inline-block;
+	font-size: 24px;
+	font-family: arial;
+	color: #d8870d;
+	margin-top: 20px;
+	margin-right: 100px;
+
+}
+
+/* quita el subrayado */
+a{
+	text-decoration: none;
+
+}
+
+/* clases de selectores */
+.navegacion{
+	
+}
